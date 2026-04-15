@@ -19,6 +19,4 @@ Run the script after installing OpenCV:
 pip install opencv-python
 python main.py
 
-Author
 
-Shavya Singh
